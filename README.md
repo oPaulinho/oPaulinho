@@ -77,7 +77,7 @@ Me chamo Genilson Paulo da Silva, tenho 24 anos e sou natural do São Paulo. Sou
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="450"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPaulinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
